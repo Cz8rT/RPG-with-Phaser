@@ -1,0 +1,23 @@
+{
+  "name": "rpg-with-phaser",
+  "version": "1.0.0",
+  "description": "RPG with Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cz8rT/RPG-with-Phaser.git"
+  },
+  "author": "Adam Welnicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cz8rT/RPG-with-Phaser/issues"
+  },
+  "homepage": "https://github.com/Cz8rT/RPG-with-Phaser#readme",
+  "dependencies": {
+    "phaser": "^3.24.1"
+  }
+}
